@@ -1,0 +1,39 @@
+{
+    "beaches": [
+      {
+        "id": 1,
+        "name": "Coronado Beach",
+        "image": "https://thetrekplanner.com/wp-content/uploads/2013/12/IMG_9493.jpg",
+        "waveHeight": 6,
+        "alerts": "Beach closed due to hazardous water quality"
+      },
+      {
+        "id": 2,
+        "name": "Pacific Beach",
+        "image": "https://lajollamom.com/wp-content/uploads/2019/02/best-pacific-beach-beaches-1.jpg",
+        "waveHeight": 6,
+        "alerts": "Red Flag Advisory! Strong undertow has been observed"
+      },
+      {
+        "id": 3,
+        "name": "LaJolla Cove",
+        "image": "https://lajollamom.com/wp-content/uploads/2018/05/la-jolla-cove-guide.jpg",
+        "waveHeight": 2,
+        "alerts": "Seal mating season - keep distance of 30' from animals"
+      },
+      {
+        "id": 4,
+        "name": "Ocean Beach",
+        "image": "https://drupal-prod.visitcalifornia.com/sites/default/files/styles/fluid_680/public/2023-02/VC_SEO-SD-Ocean-Beach_gty-538979525-RF_1280x640.jpg.webp?itok=4ckLor3U",
+        "waveHeight": 4,
+        "alerts": "None"
+      },
+      {
+        "id": 5,
+        "name": "Mission Beach",
+        "image": "https://media.gettyimages.com/id/546200652/photo/san-diegos-mission-beach-aerial-view.jpg?s=612x612&w=gi&k=20&c=s-YP5CTS1btLHcU0L_STH31EsYPdjKbgykJ-OdrGADc=",
+        "waveHeight": 3,
+        "alerts": "None"
+      }
+    ]
+  }
