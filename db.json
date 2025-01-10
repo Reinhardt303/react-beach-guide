@@ -34,13 +34,6 @@
       "image": "https://media.gettyimages.com/id/546200652/photo/san-diegos-mission-beach-aerial-view.jpg?s=612x612&w=gi&k=20&c=s-YP5CTS1btLHcU0L_STH31EsYPdjKbgykJ-OdrGADc=",
       "waveHeight": 3,
       "alerts": "None"
-    },
-    {
-      "id": "c929",
-      "name": "Imperial Beach",
-      "alerts": "Sewage Runoff",
-      "waveHeight": "3",
-      "image": "https://www.portofsandiego.org/sites/default/files/styles/hero_1080/public/media/images/2022/10/Explore-Slider_Imperial-Beach.jpg?itok=wIHBhQFf"
     }
   ]
 }

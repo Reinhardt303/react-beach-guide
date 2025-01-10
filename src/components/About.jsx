@@ -4,9 +4,6 @@ function About() {
 
     return (
       <>
-        <header>
-          <NavBar />
-        </header>
         <main>
           <h1>Thanks for trying out my app!</h1>
           <p>Please email me at thomasrains01@gmail.com with any questions or comments</p>

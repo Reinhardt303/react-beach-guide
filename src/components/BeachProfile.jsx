@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import NavBar from "../components/NavBar";
 import { useParams } from "react-router-dom";
 
 function BeachProfile() {
@@ -16,9 +15,6 @@ function BeachProfile() {
 
     return (
       <>
-        <header>
-          <NavBar />
-        </header>
         <main>
           <h1>{beach.name}</h1>
           <p>Max wave height observed: {beach.waveHeight}</p>

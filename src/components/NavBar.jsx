@@ -17,6 +17,12 @@ function NavBar() {
         Beaches
       </NavLink>
       <NavLink
+        to="/form"
+        className="nav-link"
+      >
+        Form
+      </NavLink>
+      <NavLink
         to="/about"
         className="nav-link"
       >
