@@ -2,7 +2,7 @@ import Home from "../Home";
 import Beaches from "./Beaches"
 import ErrorPage from "./ErrorPage";
 import BeachProfile from "./BeachProfile";
-import Form from "./Form";
+import About from "./About";
 
 const routes = [
     {
@@ -21,9 +21,9 @@ const routes = [
       errorElement: <ErrorPage />
     }, 
     {
-        path: "/form",
-        element: <Form />,
-        errorElement: <ErrorPage />
+    path: "/about",
+    element: <About />,
+    errorElement: <ErrorPage />
       },
     ];
   

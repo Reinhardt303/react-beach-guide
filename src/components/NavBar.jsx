@@ -17,10 +17,10 @@ function NavBar() {
         Beaches
       </NavLink>
       <NavLink
-        to="/form"
+        to="/about"
         className="nav-link"
       >
-        Add a Beach
+        About
       </NavLink>
     </nav>
     );
